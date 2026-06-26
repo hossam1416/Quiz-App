@@ -1,0 +1,490 @@
+{
+  "HTML": [
+    {
+      "title": "Why We Use <br> Element",
+      "answer_1": "To Make Text Bold",
+      "answer_2": "To Make Text Italic",
+      "answer_3": "To Add Breakline",
+      "answer_4": "To Create Horizontal Line",
+      "right_answer": "To Add Breakline"
+    },
+    {
+      "title": "Is <img> Element Has Attribute href",
+      "answer_1": "Yes",
+      "answer_2": "No Its For Anchor Tag <a>",
+      "answer_3": "All Elements Has This Attribute",
+      "answer_4": "Answer 1 And 3 Is Right",
+      "right_answer": "No Its For Anchor Tag <a>"
+    },
+    {
+      "title": "How Can We Make Element Text Bold",
+      "answer_1": "Putting It Inside <b> Tag",
+      "answer_2": "Putting It Inside <strong> Tag",
+      "answer_3": "Customizing It With Font-Weight Property In CSS",
+      "answer_4": "All Answers Is Right",
+      "right_answer": "All Answers Is Right"
+    },
+    {
+      "title": "What Is The Right Hierarchy For Headings",
+      "answer_1": "<h2> Then <h1> Then <h3>",
+      "answer_2": "<h1> Then <h2> Then <h3>",
+      "answer_3": "<h3> Then <h2> Then <h1>",
+      "answer_4": "Order Does Not Matter",
+      "right_answer": "<h1> Then <h2> Then <h3>"
+    },
+    {
+      "title": "How Can We Include External Page Inside Our HTML Page",
+      "answer_1": "By Using Include in HTML",
+      "answer_2": "By Using Load In HTML",
+      "answer_3": "By Using iFrame Tag",
+      "answer_4": "All Solutions Is Wrong",
+      "right_answer": "By Using iFrame Tag"
+    },
+    {
+      "title": "What Is The Tag That Not Exists in HTML",
+      "answer_1": "<object>",
+      "answer_2": "<basefont>",
+      "answer_3": "<abbr>",
+      "answer_4": "All Tags Is Exists in HTML",
+      "right_answer": "All Tags Is Exists in HTML"
+    },
+    {
+      "title": "How We Specify Document Type Of HTML5 Page",
+      "answer_1": "<DOCTYPE html>",
+      "answer_2": "<DOCTYPE html5>",
+      "answer_3": "<!DOCTYPE html5>",
+      "answer_4": "<!DOCTYPE html>",
+      "right_answer": "<!DOCTYPE html>"
+    },
+    {
+      "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
+      "answer_1": "<article>",
+      "answer_2": "<section>",
+      "answer_3": "<blockquote>",
+      "answer_4": "<aside>",
+      "right_answer": "<blockquote>"
+    },
+    {
+      "title": "In HTML Can We Use This Way To Add Attributes",
+      "answer_1": "<div class='class-name'>",
+      "answer_2": "<div class=class-name>",
+      "answer_3": "<div class=\"class-name\">",
+      "answer_4": "All Is Right",
+      "right_answer": "All Is Right"
+    },
+    {
+      "title": "Which Attribute Is Used To Open A Link In A New Tab",
+      "answer_1": "rel=\"noopener\"",
+      "answer_2": "target=\"_blank\"",
+      "answer_3": "href=\"new\"",
+      "answer_4": "open=\"tab\"",
+      "right_answer": "target=\"_blank\""
+    },
+    {
+      "title": "Which HTML Element Is Used To Define A Table Row",
+      "answer_1": "<td>",
+      "answer_2": "<th>",
+      "answer_3": "<tr>",
+      "answer_4": "<table>",
+      "right_answer": "<tr>"
+    },
+    {
+      "title": "What Does The Alt Attribute In <img> Do",
+      "answer_1": "Changes Image Size",
+      "answer_2": "Adds A Border To Image",
+      "answer_3": "Provides Alternative Text If Image Fails To Load",
+      "answer_4": "Sets Image Opacity",
+      "right_answer": "Provides Alternative Text If Image Fails To Load"
+    },
+    {
+      "title": "Which Input Type Is Used For Password Fields",
+      "answer_1": "type=\"text\"",
+      "answer_2": "type=\"hidden\"",
+      "answer_3": "type=\"password\"",
+      "answer_4": "type=\"secure\"",
+      "right_answer": "type=\"password\""
+    },
+    {
+      "title": "What Is The Purpose Of The <meta charset='UTF-8'> Tag",
+      "answer_1": "Sets The Page Title",
+      "answer_2": "Defines The Character Encoding Of The Page",
+      "answer_3": "Links An External CSS File",
+      "answer_4": "Adds A Page Icon",
+      "right_answer": "Defines The Character Encoding Of The Page"
+    },
+    {
+      "title": "Which Tag Is Used To Create An Unordered List",
+      "answer_1": "<ol>",
+      "answer_2": "<li>",
+      "answer_3": "<ul>",
+      "answer_4": "<list>",
+      "right_answer": "<ul>"
+    }
+  ],
+  "CSS": [
+    {
+      "title": "Which Property Is Used To Change Text Color In CSS",
+      "answer_1": "font-color",
+      "answer_2": "text-color",
+      "answer_3": "color",
+      "answer_4": "foreground-color",
+      "right_answer": "color"
+    },
+    {
+      "title": "What Does 'box-sizing: border-box' Do",
+      "answer_1": "Adds A Border To All Elements",
+      "answer_2": "Includes Padding And Border In The Element's Total Width And Height",
+      "answer_3": "Removes The Default Margin",
+      "answer_4": "Makes The Element A Flexbox",
+      "right_answer": "Includes Padding And Border In The Element's Total Width And Height"
+    },
+    {
+      "title": "Which Display Value Makes Elements Sit Side By Side",
+      "answer_1": "block",
+      "answer_2": "none",
+      "answer_3": "inline",
+      "answer_4": "table",
+      "right_answer": "inline"
+    },
+    {
+      "title": "What Is The Default Position Value In CSS",
+      "answer_1": "relative",
+      "answer_2": "absolute",
+      "answer_3": "fixed",
+      "answer_4": "static",
+      "right_answer": "static"
+    },
+    {
+      "title": "Which Property Is Used To Add Space Inside An Element",
+      "answer_1": "margin",
+      "answer_2": "padding",
+      "answer_3": "spacing",
+      "answer_4": "gap",
+      "right_answer": "padding"
+    },
+    {
+      "title": "How To Select All <p> Elements Inside A <div> In CSS",
+      "answer_1": "div + p",
+      "answer_2": "div > p",
+      "answer_3": "div p",
+      "answer_4": "div.p",
+      "right_answer": "div p"
+    },
+    {
+      "title": "Which Property Controls The Space Between Flex Items",
+      "answer_1": "spacing",
+      "answer_2": "margin-flex",
+      "answer_3": "gap",
+      "answer_4": "flex-space",
+      "right_answer": "gap"
+    },
+    {
+      "title": "What Does z-index Control",
+      "answer_1": "Element Width",
+      "answer_2": "Element Opacity",
+      "answer_3": "Stacking Order Of Elements",
+      "answer_4": "Element Font Size",
+      "right_answer": "Stacking Order Of Elements"
+    },
+    {
+      "title": "Which Value Of Position Removes The Element From Normal Document Flow And Positions It Relative To The Viewport",
+      "answer_1": "relative",
+      "answer_2": "absolute",
+      "answer_3": "fixed",
+      "answer_4": "sticky",
+      "right_answer": "fixed"
+    },
+    {
+      "title": "How To Make A Flex Container",
+      "answer_1": "display: grid",
+      "answer_2": "display: flex",
+      "answer_3": "display: block",
+      "answer_4": "display: inline",
+      "right_answer": "display: flex"
+    },
+    {
+      "title": "Which Property Is Used To Round The Corners Of An Element",
+      "answer_1": "border-style",
+      "answer_2": "corner-radius",
+      "answer_3": "border-radius",
+      "answer_4": "border-curve",
+      "right_answer": "border-radius"
+    },
+    {
+      "title": "What Does 'overflow: hidden' Do",
+      "answer_1": "Hides The Element Completely",
+      "answer_2": "Clips Content That Overflows The Element's Box",
+      "answer_3": "Adds A Scrollbar",
+      "answer_4": "Removes The Element's Border",
+      "right_answer": "Clips Content That Overflows The Element's Box"
+    },
+    {
+      "title": "Which Property Sets The Background Image In CSS",
+      "answer_1": "image",
+      "answer_2": "bg-image",
+      "answer_3": "background-image",
+      "answer_4": "src",
+      "right_answer": "background-image"
+    },
+    {
+      "title": "What Is The Correct Way To Import A Google Font In CSS",
+      "answer_1": "<link> Tag In HTML Only",
+      "answer_2": "@import url() In CSS",
+      "answer_3": "Both Are Correct",
+      "answer_4": "font-import Property",
+      "right_answer": "Both Are Correct"
+    },
+    {
+      "title": "Which CSS Property Controls Text Size",
+      "answer_1": "text-size",
+      "answer_2": "font-size",
+      "answer_3": "font-weight",
+      "answer_4": "letter-size",
+      "right_answer": "font-size"
+    }
+  ],
+  "JavaScript": [
+    {
+      "title": "Which Keyword Declares A Block-Scoped Variable In JavaScript",
+      "answer_1": "var",
+      "answer_2": "let",
+      "answer_3": "define",
+      "answer_4": "set",
+      "right_answer": "let"
+    },
+    {
+      "title": "What Does typeof null Return In JavaScript",
+      "answer_1": "null",
+      "answer_2": "undefined",
+      "answer_3": "object",
+      "answer_4": "string",
+      "right_answer": "object"
+    },
+    {
+      "title": "Which Method Adds An Element To The End Of An Array",
+      "answer_1": "push()",
+      "answer_2": "pop()",
+      "answer_3": "shift()",
+      "answer_4": "add()",
+      "right_answer": "push()"
+    },
+    {
+      "title": "What Is The Output Of 0 == '0' In JavaScript",
+      "answer_1": "false",
+      "answer_2": "true",
+      "answer_3": "undefined",
+      "answer_4": "Error",
+      "right_answer": "true"
+    },
+    {
+      "title": "Which Method Is Used To Select An Element By Its ID",
+      "answer_1": "querySelector()",
+      "answer_2": "getElement()",
+      "answer_3": "getElementById()",
+      "answer_4": "selectById()",
+      "right_answer": "getElementById()"
+    },
+    {
+      "title": "What Does JSON.parse() Do",
+      "answer_1": "Converts An Object To JSON String",
+      "answer_2": "Converts A JSON String To A JavaScript Object",
+      "answer_3": "Deletes A JSON File",
+      "answer_4": "Creates A New JSON File",
+      "right_answer": "Converts A JSON String To A JavaScript Object"
+    },
+    {
+      "title": "Which Loop Is Guaranteed To Execute At Least Once",
+      "answer_1": "for",
+      "answer_2": "while",
+      "answer_3": "do...while",
+      "answer_4": "forEach",
+      "right_answer": "do...while"
+    },
+    {
+      "title": "What Does The === Operator Check",
+      "answer_1": "Value Only",
+      "answer_2": "Type Only",
+      "answer_3": "Value And Type",
+      "answer_4": "Reference Only",
+      "right_answer": "Value And Type"
+    },
+    {
+      "title": "Which Method Converts An Array To A String",
+      "answer_1": "toString()",
+      "answer_2": "join()",
+      "answer_3": "Both Are Correct",
+      "answer_4": "stringify()",
+      "right_answer": "Both Are Correct"
+    },
+    {
+      "title": "What Is A Closure In JavaScript",
+      "answer_1": "A Way To Close The Browser",
+      "answer_2": "A Function That Has Access To Its Outer Scope Even After The Outer Function Returns",
+      "answer_3": "A Method To End A Loop",
+      "answer_4": "A Way To Delete A Variable",
+      "right_answer": "A Function That Has Access To Its Outer Scope Even After The Outer Function Returns"
+    },
+    {
+      "title": "Which Method Is Used To Fetch Data From An API",
+      "answer_1": "get()",
+      "answer_2": "request()",
+      "answer_3": "fetch()",
+      "answer_4": "load()",
+      "right_answer": "fetch()"
+    },
+    {
+      "title": "What Does addEventListener Do",
+      "answer_1": "Removes An Event From An Element",
+      "answer_2": "Creates A New HTML Element",
+      "answer_3": "Attaches An Event Handler To An Element",
+      "answer_4": "Changes Element Style",
+      "right_answer": "Attaches An Event Handler To An Element"
+    },
+    {
+      "title": "Which Array Method Returns A New Array With Only Elements That Pass A Test",
+      "answer_1": "map()",
+      "answer_2": "find()",
+      "answer_3": "filter()",
+      "answer_4": "reduce()",
+      "right_answer": "filter()"
+    },
+    {
+      "title": "What Is The Purpose Of setTimeout()",
+      "answer_1": "Repeats A Function Every X Milliseconds",
+      "answer_2": "Stops A Running Interval",
+      "answer_3": "Executes A Function Once After A Delay",
+      "answer_4": "Measures Execution Time",
+      "right_answer": "Executes A Function Once After A Delay"
+    },
+    {
+      "title": "Which Keyword Is Used To Handle Errors In JavaScript",
+      "answer_1": "catch",
+      "answer_2": "error",
+      "answer_3": "try...catch",
+      "answer_4": "handle",
+      "right_answer": "try...catch"
+    }
+  ],
+  "PHP": [
+    {
+      "title": "How Do You Start A PHP Code Block",
+      "answer_1": "<php>",
+      "answer_2": "<?php",
+      "answer_3": "<script type='php'>",
+      "answer_4": "<?",
+      "right_answer": "<?php"
+    },
+    {
+      "title": "Which Symbol Is Used To Declare A Variable In PHP",
+      "answer_1": "#",
+      "answer_2": "@",
+      "answer_3": "$",
+      "answer_4": "&",
+      "right_answer": "$"
+    },
+    {
+      "title": "Which Function Is Used To Print Output In PHP",
+      "answer_1": "print()",
+      "answer_2": "echo()",
+      "answer_3": "console.log()",
+      "answer_4": "Both echo And print",
+      "right_answer": "Both echo And print"
+    },
+    {
+      "title": "How Do You Create An Array In PHP",
+      "answer_1": "$arr = []",
+      "answer_2": "$arr = array()",
+      "answer_3": "Both Are Correct",
+      "answer_4": "$arr = {}",
+      "right_answer": "Both Are Correct"
+    },
+    {
+      "title": "Which Superglobal Is Used To Collect Form Data Sent With POST",
+      "answer_1": "$_GET",
+      "answer_2": "$_REQUEST",
+      "answer_3": "$_POST",
+      "answer_4": "$_FORM",
+      "right_answer": "$_POST"
+    },
+    {
+      "title": "How Do You Connect To A MySQL Database In PHP Using MySQLi",
+      "answer_1": "mysql_connect()",
+      "answer_2": "new MySQLi()",
+      "answer_3": "db_connect()",
+      "answer_4": "connect_db()",
+      "right_answer": "new MySQLi()"
+    },
+    {
+      "title": "Which Function Returns The Length Of A String In PHP",
+      "answer_1": "length()",
+      "answer_2": "count()",
+      "answer_3": "strlen()",
+      "answer_4": "size()",
+      "right_answer": "strlen()"
+    },
+    {
+      "title": "What Does The == Operator Do In PHP",
+      "answer_1": "Checks Value And Type",
+      "answer_2": "Checks Value Only",
+      "answer_3": "Assigns A Value",
+      "answer_4": "Compares References",
+      "right_answer": "Checks Value Only"
+    },
+    {
+      "title": "Which PHP Function Is Used To Redirect To Another Page",
+      "answer_1": "redirect()",
+      "answer_2": "go()",
+      "answer_3": "header()",
+      "answer_4": "location()",
+      "right_answer": "header()"
+    },
+    {
+      "title": "How Do You Define A Class In PHP",
+      "answer_1": "def MyClass {}",
+      "answer_2": "class MyClass {}",
+      "answer_3": "object MyClass {}",
+      "answer_4": "new class MyClass {}",
+      "right_answer": "class MyClass {}"
+    },
+    {
+      "title": "Which Function Counts The Number Of Elements In An Array",
+      "answer_1": "length()",
+      "answer_2": "size()",
+      "answer_3": "count()",
+      "answer_4": "num()",
+      "right_answer": "count()"
+    },
+    {
+      "title": "What Is The Correct Way To Include A File In PHP",
+      "answer_1": "import 'file.php'",
+      "answer_2": "require 'file.php'",
+      "answer_3": "include 'file.php'",
+      "answer_4": "Both require And include Are Correct",
+      "right_answer": "Both require And include Are Correct"
+    },
+    {
+      "title": "Which Function Removes Whitespace From Both Sides Of A String",
+      "answer_1": "clean()",
+      "answer_2": "strip()",
+      "answer_3": "trim()",
+      "answer_4": "clear()",
+      "right_answer": "trim()"
+    },
+    {
+      "title": "What Does $_SESSION Store",
+      "answer_1": "Data In A Cookie",
+      "answer_2": "Data In The Database",
+      "answer_3": "Data Across Multiple Pages For A Single User",
+      "answer_4": "Data In A Local File",
+      "right_answer": "Data Across Multiple Pages For A Single User"
+    },
+    {
+      "title": "Which Keyword Is Used To Create An Object From A Class In PHP",
+      "answer_1": "create",
+      "answer_2": "object",
+      "answer_3": "new",
+      "answer_4": "instance",
+      "right_answer": "new"
+    }
+  ]
+}
